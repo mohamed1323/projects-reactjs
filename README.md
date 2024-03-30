@@ -1,6 +1,7 @@
 # Getting Started with  ReactJs Portofolio Project 
 
-This project is My Personal Portofolio using  with https://github.com/mohamed1323/projects-reactjs/blob/main/README.md
+This project is My Personal Portofolio using  with Reactjs
+https://github.com/mohamed1323/projects-reactjs/blob/main/README.md
 
 
 # Getting Started Installation on vscode terminal
