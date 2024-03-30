@@ -1,6 +1,6 @@
 # Getting Started with  React App
 
-This project using with [Create React App](https://github.com/portofolioweb/create-react-app).
+This project is My Personal Portofolio using  with [Create React App](https://github.com/portofolioweb/create-react-app).
 
 
 # Getting Started on terminal npm install 
