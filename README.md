@@ -7,7 +7,8 @@ This project is My Personal Portofolio using  with [Create React App](https://gi
 
 npm i or install wuxu kusamena modules kadib ayaad npm run start dheh saas ayu project kugu soo daarma
 ### `npm start`
-![Uploading image.png…]()
+![Uploading Screenshot 2024-03-30 154540.png…]()
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
