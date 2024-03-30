@@ -1,4 +1,4 @@
-Create React App 
+Create React App
 
 This project using with [Create React App](https://github.com/portofolioweb/create-react-app).
 
