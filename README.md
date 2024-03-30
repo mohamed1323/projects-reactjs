@@ -41,8 +41,5 @@ This section has moved here:[ https://github.com/mohamed1323/projects-reactjs.gi
 
 
 
-## `npm run build` fails to minify
-
-This section has moved here: [https://github.com/mohamed1323/projects-reactjs.git/troubleshooting#npm-run-build-fails-to-minify](https://github.com/mohamed1323/projects-reactjs.git/troubleshooting#npm-run-build-fails-to-minify)
 
 
