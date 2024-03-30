@@ -28,7 +28,7 @@ See the section about [deployment](https://github.com/mohamed1323/projects-react
 
 ## Features
 - About Me: An overview of my background
-- Home : that you can saw my hero
+- Home : that you can saw my hero PICTURE
 - Skills: A list of my technical skills like launguages .
 - bio: that you can see my projects 
 - Contact:😊 my phone/address/Email
