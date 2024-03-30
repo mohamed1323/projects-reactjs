@@ -72,7 +72,7 @@ nav ul li a:hover{
 .hero{
   display: flex;
   justify-content: space-between;
-  background-color: #85b89f;
+  background-color: #17bb6c;
   height: calc(100vh - 80px);
   color: #fff;
   padding: 0 50px;
@@ -198,7 +198,7 @@ figure{
 .testimonials {
   padding: 20px 50px;
   padding-bottom: 30px;
-  background-color: #85b89f;
+  background-color: #17bb6c;
   color: white;
   margin-top: 20px;
   margin-bottom: 50px;
