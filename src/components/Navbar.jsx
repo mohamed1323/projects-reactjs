@@ -14,7 +14,7 @@ function Navbar() {
             <a href="#hero">Home</a>
           </li>
           <li onClick={() => setShowMenu(false)}>
-            <a href="#projects">bio</a>
+            <a href="#projects">Projects</a>
           </li>
           <li onClick={() => setShowMenu(false)}>
             <a href="#Skills">Skills </a>
