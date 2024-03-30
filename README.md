@@ -6,9 +6,10 @@ This project is My Personal Portofolio using  with [Create React App](https://gi
 # Getting Started Installation on vscode terminal
 
 npm i or install wuxu kusamena modules kadib ayaad npm run start dheh saas ayu project kugu soo daarma
-### `npm start`
+### `npm start
+<img width="938" alt="Screenshot 2024-03-30 193532" src="https://github.com/mohamed1323/projects-reactjs/assets/114732963/2ec23027-5df1-45b3-8a5a-8a4e3c880e6d">
+`
 
-<img width="935" alt="Screenshot 2024-03-30 154540" src="https://github.com/mohamed1323/projects-reactjs/assets/114732963/e0126875-1caf-4f8f-b621-d3b4d64d5def">
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
