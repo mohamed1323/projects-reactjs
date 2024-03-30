@@ -9,7 +9,8 @@ function Hero() {
             className='im'
           >I'm</span></h1>
           <h1>MohamedAmiin</h1>
-          <p>A senior programer aiming    developing websites/mobileapps  </p>
+          <p>waxa an ahay xirfadle kufiican  programer and i love it to do that and i'm aiming    developing websites/mobileapps  </p>
+          <p>and i hope inan noqdo xirfadle an faca dalkiisa iyo dadkiisa waxa ad ujeclahay inan cilmi baaris kasuubiyo technologyda iyo qeybaheda kala duwan .</p>
         </div>
         <button className="cta">See My Projects</button>
       </div>
