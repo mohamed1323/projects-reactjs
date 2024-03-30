@@ -4,7 +4,8 @@ This project is My Personal Portofolio using  with [Create React App](https://gi
 
 
 # Getting Started on terminal npm install 
-wuxu kusamena modules kadib ayaad npm run start dheh saas ayu project kugu soo daarma
+
+npm i or install wuxu kusamena modules kadib ayaad npm run start dheh saas ayu project kugu soo daarma
 ### `npm start`
 <img width="936" alt="Screenshot 2024-03-30 134841" src="https://github.com/mohamed1323/projects-reactjs/assets/114732963/8a3d703e-0796-4433-915f-ce0b25e9a79c">
 
