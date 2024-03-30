@@ -7,7 +7,7 @@ https://github.com/mohamed1323/projects-reactjs/blob/main/README.md
 # Getting Started Installation on vscode terminal
 
 npm i or install wuxu kusamena modules kadib ayaad npm run start dheh saas ayu project kugu soo daarma
-### `npm start
+### `npm start'
 <img width="938" alt="Screenshot 2024-03-30 193532" src="https://github.com/mohamed1323/projects-reactjs/assets/114732963/2ec23027-5df1-45b3-8a5a-8a4e3c880e6d">
 `
 
