@@ -2,9 +2,7 @@ Create React App
 
 This project using with [Create React App](https://github.com/portofolioweb/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
 ### `npm start`
 
